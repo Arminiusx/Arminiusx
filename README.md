@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Arminius</h1>
+<h1 align="center">Hi I'm Arminius</h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Firacode&size=24&duration=3000&pause=500&color=AE87FF&multiline=true&center=true&vCenter=true&width=265&height=124&lines=Arminius+Hunter;Midlevel; FullStack Developer" alt="Typing SVG" />
+
 <h3 align="center">Hunter / Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
